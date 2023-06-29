@@ -1,4 +1,4 @@
-# CraftSilicon Compliance Program
+# CS Compliance Program
 
 This repository consolidates all documents related to the CraftSilicon Compliance Program.
 
