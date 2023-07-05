@@ -1,6 +1,6 @@
 # CS Compliance Program
 
-This repository consolidates all documents related to the CraftSilicon Compliance Program.
+This repository consolidates all documents related to the CS Compliance Program.
 
 # Structure
 
